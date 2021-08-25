@@ -9,7 +9,7 @@ Show information on screen(via textdraw)
 - From Shadow's post (https://imgur.com/4Va5o5r)
 
 ## Updates
-#### v2.0
+#### v1.1
 - Reduced everything to 1 line and made it include.
 
 #### v1.0
