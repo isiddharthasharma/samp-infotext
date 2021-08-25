@@ -1,4 +1,4 @@
-# Infotext
+# InfoText
 Show information on screen(via textdraw)
 
 ## Features
