@@ -5,6 +5,9 @@ Show information on screen(via textdraw)
 - Show information on screen without using chatbox
 - Location of textdraw: below chatbox
 
+## Images
+- From Shadow's post (https://imgur.com/4Va5o5r)
+
 ## Updates
 #### v2.0
 - Reduced everything to 1 line and made it include.
